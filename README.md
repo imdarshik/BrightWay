@@ -14,4 +14,7 @@ Brightway is a smart navigation assistant which will empower the visually impair
 ### Project Presentation:
 For the semester project presentation we worked on object detection feature.\
 Model: YOLOv8\
-Dataset: https://www.kaggle.com/datasets/thepbordin/indoor-object-detection/
+Dataset: https://www.kaggle.com/datasets/thepbordin/indoor-object-detection/ 
+
+
+[Link to Project Presentation](https://www.canva.com/design/DAGBbGZ73ZM/Fc1VYRI14mqL2tdb4CE76w/edit)
